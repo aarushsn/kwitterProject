@@ -1,0 +1,24 @@
+input,label,h3{
+    font-family: 'Kanit', sans-serif;
+}
+
+h2{
+    font-family: 'Kanit', sans-serif;
+}
+
+#output{
+    background-color:white ;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding:10px ;
+    float: none;
+    text-align: left;
+}
+
+#send{
+    font-family: 'Kanit', sans-serif;
+}
+
+img{
+  width: 100px;
+}
